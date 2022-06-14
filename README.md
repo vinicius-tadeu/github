@@ -1,2 +1,2 @@
-# Github
-Comandos Git Hub
+# Git
+Comandos Git
